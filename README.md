@@ -1,4 +1,4 @@
-# grades
+# School-grades
 I developed a comprehensive Python project for the School of Athens, which involves creating a robust data model using a Student class and a supporting Grade class. The project encompasses the following key features:
 
 Student Class: The Student class is designed to store student information and their academic records. It includes a constructor method for initializing student attributes such as name, year, grades, and attendance.
